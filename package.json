@@ -1,0 +1,12 @@
+{
+  "name": "multiplexed-provider",
+  "version": "0.0.1",
+  "description": "Multiplexed Web3 provider",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+  }
+}
